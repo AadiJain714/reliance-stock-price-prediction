@@ -1,4 +1,6 @@
 # Reliance Stock Price Prediction using Machine Learning
+Developed by Aadi jain
+
 This project predicts Reliance Industries stock closing prices using multiple machine learning algorithms. The best-performing model is automatically selected based on evaluation metrics and deployed through a Streamlit web application for interactive visualization and future price forecasting.
 
 # Objective:-
@@ -79,10 +81,7 @@ model.pkl
 scaler.pkl
 feature_cols.pkl
 
-# Author
-Pavithra L
-MBA – Business Analytics & Finance
-GitHub: pavithralanalytics
+
 
 # Conclusion
 This project demonstrates how machine learning can be effectively applied to stock market data for trend prediction. The automatic model selection and Streamlit deployment make the solution both accurate and user-friendly, showcasing strong analytical and technical skills.
